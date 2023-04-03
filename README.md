@@ -1,1 +1,1 @@
-# trabalho_lista
+# Trabalho de Desenvolvimento Web II para imprimir lista (ol/ul) utilizando PHP orientado a objetos - Julia Salvador
